@@ -39,3 +39,18 @@ python test.py --gpus 0 --type 5
 <div style="text-align: center">
 <img alt="" src="/images/bedde_rtts.png" style="display: inline-block;" />
 </div>
+
+## 📚 Citation
+
+If you use any part of this work, please cite it using the following BibTeX format:
+
+```
+@article{xue2026ur2p,
+  title={UR2P-Dehaze: Learning a Simple Image Dehaze Enhancer via Unpaired Rich Physical Prior},
+  author={Xue, Minglong and Fan, Shuaibin and Palaiahnakote, Shivakumara and Zhou, Mingliang},
+  journal={Pattern Recognition},
+  volume={170},
+  pages={111997},
+  year={2026},
+  publisher={Elsevier}
+}
