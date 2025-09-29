@@ -11,8 +11,8 @@ Image dehazing remains a challenging task in real-world scenarios. Unlike synthe
 ### Clone the repo
 
 ```sh
-git clone https://github.com/Fan-pixel/NeDR-Dehaze.git
-cd NeDR-Dehaze
+git clone https://github.com/Fan-pixel/FAL-Net.git
+cd FAL-Net
 ```
 
 ## 💻 Install
