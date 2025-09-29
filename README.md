@@ -30,12 +30,12 @@ python train.py -train_batch_size 4 --gpus 0 --type 5
 python test.py --gpus 0 --type 5
  ```
 
-#### Results on Outdoor Dehazing Challenge testing images
+#### Results on Outdoor Dehazing testing images
 <div style="text-align: center">
 <img alt="" src="/images/outdoor.png" style="display: inline-block;" />
 </div>
 
-#### Results on BeDDE and RTTS Dehazing Challenge testing images
+#### Results on BeDDE and RTTS Dehazing testing images
 <div style="text-align: center">
 <img alt="" src="/images/bedde_rtts.png" style="display: inline-block;" />
 </div>
