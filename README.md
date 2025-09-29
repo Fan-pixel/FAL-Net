@@ -34,3 +34,8 @@ python test.py --gpus 0 --type 5
 <div style="text-align: center">
 <img alt="" src="/images/outdoor.png" style="display: inline-block;" />
 </div>
+
+#### Results on BeDDE and RTTS Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/bedde_rtts.png" style="display: inline-block;" />
+</div>
