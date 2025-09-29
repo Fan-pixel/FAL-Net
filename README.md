@@ -17,3 +17,20 @@ cd FAL-Net
 
 ## 💻 Install
 ![Python 3.7](https://img.shields.io/badge/python-3.7-g) ![pytorch 2.1.2](https://img.shields.io/badge/pytorch-2.1.2-blue.svg)
+
+### Train
+
+```shell
+python train.py -train_batch_size 4 --gpus 0 --type 5
+```
+
+### Test
+
+ ```shell
+python test.py --gpus 0 --type 5
+ ```
+
+#### Results on Outdoor Dehazing Challenge testing images
+<div style="text-align: center">
+<img alt="" src="/images/outdoor.png" style="display: inline-block;" />
+</div>
