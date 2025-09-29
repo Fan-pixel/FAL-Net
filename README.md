@@ -29,7 +29,7 @@ python train.py -train_batch_size 4 --gpus 0 --type 5
  ```shell
 python test.py --gpus 0 --type 5
  ```
-
+you can download the pretrained models on [Training weight](https://pan.baidu.com/s/1MBe68kS4gVp1Sg3pUNk4-w）.（nvkm）
 #### Results on Outdoor Dehazing testing images
 <div style="text-align: center">
 <img alt="" src="/images/outdoor.png" style="display: inline-block;" />
